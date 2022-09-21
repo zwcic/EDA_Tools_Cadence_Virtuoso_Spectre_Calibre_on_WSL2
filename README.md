@@ -1,10 +1,10 @@
 # 使用wsl centos7 搭建模拟集成电路设计开发环境EDA的一些经验
 
-年初参加集创赛，自己动手搭建了一套模拟IC设计的工作环境，wsl跑仿真比虚拟机快，启动速度快，占用资源少等等各种优点
-比vmware快很多
-IC617和wslg好像不太兼容，用的Vcxsrc+XFCE4桌面的方案，和远程桌面差不多，eetop上也有老哥分享用docker+VNC的方案也挺好用
-后台发现IC618和wslg兼容的不错
-期间从ubuntu到centos、redhat再到rocky linux躺了很多坑
+年初参加集创赛，自己动手搭建了一套模拟IC设计的工作环境，wsl跑仿真比虚拟机快，启动速度快，占用资源少等等各种优点  
+比vmware快很多  
+IC617和wslg好像不太兼容，用的Vcxsrc+XFCE4桌面的方案，和远程桌面差不多，eetop上也有老哥分享用docker+VNC的方案也挺好用  
+后台发现IC618和wslg兼容的不错  
+期间从ubuntu到centos、redhat再到rocky linux躺了很多坑  
 
 
 
