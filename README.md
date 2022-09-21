@@ -4,7 +4,9 @@
 比vmware快很多  
 IC617和wslg好像不太兼容，用的Vcxsrc+XFCE4桌面的方案，和远程桌面差不多，eetop上也有老哥分享用docker+VNC的方案也挺好用  
 后台发现IC618和wslg兼容的不错  
-期间从ubuntu到centos、redhat再到rocky linux躺了很多坑  
+期间从ubuntu到centos、redhat再到rocky linux躺了很多坑 
+
+zwcic@outlook.com
 
 
 
